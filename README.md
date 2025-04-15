@@ -1,6 +1,10 @@
 # Pokédex
+### Trilha JS Developer - DIO
 
-Este é um projeto de uma Pokédex interativa que consome a API pública [PokéAPI](https://pokeapi.co/). O objetivo é listar os Pokémons, exibir detalhes de cada um e permitir a busca por nome, tipo ou ID.
+Este é um projeto de uma Pokédex interativa que consome a API pública [PokéAPI](https://pokeapi.co/).
+O objetivo é listar os Pokémons, exibir detalhes de cada um e permitir a busca por nome, tipo ou ID.
+
+
 
 ## Funcionalidades
 
@@ -55,8 +59,13 @@ Este é um projeto de uma Pokédex interativa que consome a API pública [PokéA
     │   │   ├── modal-escuro.png
     ├── [index.html](http://_vscodecontentref_/1)
     └── [README.md](http://_vscodecontentref_/2)
-
+```
 ## Créditos
+
+@digitalinnovationone 
+
+Projeto desenvolvido apartir da trilha de conhecimento JS Developer DIO 
+```https://github.com/digitalinnovationone/js-developer-pokedex ```
 
 API utilizada: PokéAPI  
 Ícones e fontes: Google Fonts, Bootstrap Icons  
@@ -64,4 +73,3 @@ API utilizada: PokéAPI
 ## Licença
 
 Este projeto é de uso livre para fins educacionais e pessoais.
-
