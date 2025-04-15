@@ -43,17 +43,18 @@ Este é um projeto de uma Pokédex interativa que consome a API pública [PokéA
 3. Abra o arquivo index.html em seu navegador.
 
 ### Estrutura do Projeto
-pokedex/
-├── assets/
-│   ├── css/
-│   ├── js/
-│   ├── screenshots/
-│   │   ├── tela-inicial-claro.png
-│   │   ├── tela-inicial-escuro.png
-│   │   ├── modal-claro.png
-│   │   ├── modal-escuro.png
-├── [index.html](http://_vscodecontentref_/1)
-└── [README.md](http://_vscodecontentref_/2)
+```bash
+    pokedex/
+    ├── assets/
+    │   ├── css/
+    │   ├── js/
+    │   ├── screenshots/
+    │   │   ├── tela-inicial-claro.png
+    │   │   ├── tela-inicial-escuro.png
+    │   │   ├── modal-claro.png
+    │   │   ├── modal-escuro.png
+    ├── [index.html](http://_vscodecontentref_/1)
+    └── [README.md](http://_vscodecontentref_/2)
 
 ## Créditos
 
